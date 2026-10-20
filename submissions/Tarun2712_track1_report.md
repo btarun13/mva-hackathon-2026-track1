@@ -2,7 +2,7 @@
 
 **Team / user:** Tarun2712
 **Model 1:** `vep-rules-v1` (submission file `Tarun2712_vep-rules-v1.csv`)
-**Code:** `[GitHub URL — to be filled]` (`scripts/run_pipeline.sh` reproduces the submission byte-for-byte)
+**Code:** https://github.com/btarun13/mva-hackathon-2026-track1 (`scripts/run_pipeline.sh` reproduces the submission byte-for-byte)
 
 ## Result
 
@@ -55,7 +55,7 @@ The approach is a candidate-gene panel with rules-based scoring. Recessive inher
 
 ## Methods-form answers
 
-- **Generative AI:** Anthropic Claude Code (model: Claude Opus 5.5) was used interactively to review the plan, write and debug the pipeline code, and draft this report. Plan/tier: `[TODO: fill in, e.g. Claude Pro/Max/Team]`; data-handling setting: `[TODO: e.g. "model training on my data disabled"]`. The assistant ran the pipeline locally. Panel-region variant annotations were therefore visible to the assistant during the session, but no raw reads and no whole-genome VCF content were sent to it. No patient data was sent to any external annotation service: all annotation ran locally.
+- **Generative AI:** Anthropic Claude Code (model: Claude Opus 5.5) was used interactively to review the plan, write and debug the pipeline code, and draft this report. Plan/tier: Claude Max subscription (consumer terms), used through the Claude Code CLI. Data handling: the session ran on the local machine; the assistant did not upload any dataset files. The assistant ran the pipeline locally. Panel-region variant annotations were therefore visible to the assistant during the session, but no raw reads and no whole-genome VCF content were sent to it. No patient data was sent to any external annotation service: all annotation ran locally.
 - **Automated or curated:** The submission file is the **unedited automated output** of `mva_track1.py rank`. The only manual inputs are the gene list and the scoring weights, both fixed before the final run.
 - **Manual review:** After ranking, the two *BUB1B* variants were checked by hand for read support (AD, GQ, FILTER), for gnomAD and ClinVar consistency, and for agreement with the phenotype. Nothing was changed as a result.
 - **Data:** Public data only.
