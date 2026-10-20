@@ -1,0 +1,9 @@
+# Core MVA genes (OMIM: MVA1 BUB1B, MVA2 CEP57, MVA3 TRIP13) -> prior 1.0
+BUB1B
+CEP57
+TRIP13
+# Weaker / related associations -> prior 0.5
+CENPE
+KIF18A
+CENATAC
+BUB1

@@ -1,0 +1,3 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+PROBAND01,chr1,100000,A,T,chr1,200000,G,C,0.90,primary,
+PROBAND01,chr7,300000,C,T,,,,,0.30,secondary,Incidental finding unrelated to primary phenotype

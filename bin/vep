@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# VEP 113 in Docker; mounts the project dir so relative paths work.
+exec docker run --rm --platform linux/amd64 -v "$PWD":/d -w /d ensemblorg/ensembl-vep:release_113.0 vep "$@"
