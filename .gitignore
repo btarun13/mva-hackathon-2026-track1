@@ -5,5 +5,3 @@ work/
 ref/
 __pycache__/
 .DS_Store
-# Full per-variant table is derived patient data -- keep local, only the report is committed
-submissions2/*.csv
