@@ -1,0 +1,26 @@
+library	Term	Overlap	Adjusted P-value	Genes
+GO_Biological_Process_2023	Spindle Assembly Checkpoint Signaling (GO:0071173)	3/26	1.2851243012997103e-06	BUB1B;TRIP13;BUB1
+GO_Biological_Process_2023	Mitotic Spindle Assembly Checkpoint Signaling (GO:0007094)	3/26	1.2851243012997103e-06	BUB1B;TRIP13;BUB1
+GO_Biological_Process_2023	Mitotic Spindle Checkpoint Signaling (GO:0071174)	3/26	1.2851243012997103e-06	BUB1B;TRIP13;BUB1
+GO_Biological_Process_2023	Negative Regulation Of Mitotic Metaphase/Anaphase Transition (GO:0045841)	3/28	1.2851243012997103e-06	BUB1B;TRIP13;BUB1
+GO_Biological_Process_2023	Centromeric Sister Chromatid Cohesion (GO:0070601)	2/5	1.25931913430041e-05	BUB1B;BUB1
+GO_Biological_Process_2023	Mitotic Metaphase Plate Congression (GO:0007080)	2/50	0.0011381748307027714	CENPE;KIF18A
+GO_Biological_Process_2023	Metaphase Plate Congression (GO:0051310)	2/51	0.0011381748307027714	CENPE;KIF18A
+GO_Biological_Process_2023	Mitotic Sister Chromatid Segregation (GO:0000070)	2/111	0.004721155284754431	CENPE;KIF18A
+Reactome_2022	Mitotic Prometaphase R-HSA-68877	5/186	6.272003420444428e-08	CEP57;CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	Unattached Kinetochores Signal Amplification Via A MAD2 Inhibitory Signal R-HSA-141444	4/93	2.753558099014252e-07	CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	EML4 And NUDC In Mitotic Spindle Formation R-HSA-9648025	4/97	2.753558099014252e-07	CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	Resolution Of Sister Chromatid Cohesion R-HSA-2500257	4/106	2.753558099014252e-07	CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	Mitotic Spindle Checkpoint R-HSA-69618	4/110	2.753558099014252e-07	CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	RHO GTPases Activate Formins R-HSA-5663220	4/119	3.152755497246815e-07	CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	M Phase R-HSA-68886	5/380	3.2259055854095774e-07	CEP57;CENPE;KIF18A;BUB1B;BUB1
+Reactome_2022	Separation Of Sister Chromatids R-HSA-2467813	4/170	9.939795916786779e-07	CENPE;KIF18A;BUB1B;BUB1
+KEGG_2021_Human	Cell cycle	2/124	0.0031384546410172342	BUB1B;BUB1
+Human_Phenotype_Ontology	Abnormal lung lobation (HP:0002101)	3/18	7.834193999133139e-07	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Nephroblastoma (Wilms tumor) (HP:0002667)	3/20	7.834193999133139e-07	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Increased nuchal translucency (HP:0010880)	3/21	7.834193999133139e-07	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Embryonal renal neoplasm (HP:0011794)	3/21	7.834193999133139e-07	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Embryonal neoplasm (HP:0002898)	3/31	1.5107431107306151e-06	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Duodenal stenosis (HP:0100867)	3/31	1.5107431107306151e-06	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Small intestinal stenosis (HP:0012848)	3/31	1.5107431107306151e-06	CEP57;BUB1B;BUB1
+Human_Phenotype_Ontology	Neoplasm of the colon (HP:0100273)	3/34	1.7098880763660015e-06	CEP57;BUB1B;BUB1

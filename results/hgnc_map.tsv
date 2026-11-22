@@ -1,0 +1,12 @@
+ensembl_gene_id	hgnc_id	symbol	name	uniprot	locus_type	alias	location
+ENSG00000071539	HGNC:12307	TRIP13	thyroid hormone receptor interactor 13	Q15645	gene with protein product	16E1BP	5p15.33
+ENSG00000077458	HGNC:28492	FAM76B	family with sequence similarity 76 member B	Q5HYJ3	gene with protein product	MGC33371	11q21
+ENSG00000121621	HGNC:29441	KIF18A	kinesin family member 18A	Q8NI77	gene with protein product	DKFZP434G2226;PPP1R99	11p14.1
+ENSG00000138778	HGNC:1856	CENPE	centromere protein E	Q02224	gene with protein product	KIF10;PPP1R61	4q24
+ENSG00000156970	HGNC:1149	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B	O60566	gene with protein product	BUBR1;MAD3L;Bub1A;SSK1	15q15.1
+ENSG00000164039	HGNC:32389	BDH2	3-hydroxybutyrate dehydrogenase 2	Q9BUT1	gene with protein product	UCPA-OR;FLJ13261;UNQ6308;PRO20933;SDR15C1	4q24
+ENSG00000166037	HGNC:30794	CEP57	centrosomal protein 57	Q86XR8	gene with protein product	Translokin;TSP57;KIAA0092	11q21
+ENSG00000169679	HGNC:1148	BUB1	BUB1 mitotic checkpoint serine/threonine kinase	O43683	gene with protein product	hBUB1;BUB1A	2q13
+ENSG00000186166	HGNC:30460	CENATAC	centrosomal AT-AC splicing factor	Q86UT8	gene with protein product	DLNB14	11q23.3
+ENSG00000196655	HGNC:19943	TRAPPC4	trafficking protein particle complex subunit 4	Q9Y296	gene with protein product	TRS23;SBDN;PTD009	11q23.3
+ENSG00000289202			(not in HGNC)				

@@ -1,0 +1,9 @@
+# Patient data and anything derived from it -- never commit (hackathon data-use terms)
+data/
+work/
+# Large / regenerable reference bundle (scripts/prepare_reference.sh)
+ref/
+__pycache__/
+.DS_Store
+# remote tabix indexes that bcftools drops in the cwd during gnomAD lookups
+/*.tbi
